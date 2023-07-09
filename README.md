@@ -7,7 +7,6 @@
 <p align='center'>I'm Stefany, a former dentist that became a web developer. I am passionate about web development as it constantly challenges me to learn new things and stimulates my creativity to solve problems. My previous experience as a dentist has given me a solid foundation in customer service, problem solving and teamwork. 
 </p>
 
-
 ## Technology Experience
 
 <h4 align='center'>
@@ -20,7 +19,6 @@
   <img width="40" height="40" src="https://img.icons8.com/color/240/postgreesql.png" alt="postgreesql"/>
   <img  width="40" height="40" src='https://uploads-ssl.webflow.com/5ff319852fb4b1c3fc23719b/60461b1e46b14c58fad5133b_6007e9772d5efc6988a32e77_Logo-Bubble.png' alt='Bubble.io' width='60' height='60' />
 </h4>
-
 
 ## Skills
 
@@ -37,8 +35,6 @@
 - 🫱🏻‍🫲🏽 I’m looking to collaborate on open-source projects related to web development. I'm particularly interested in projects involving JavaScript frameworks like React or Vue.js. I'm excited to work with other developers and contribute to meaningful projects that have a positive impact.
 - 👀 I’m looking for help with optimizing website performance. I'm interested in learning more about techniques for improving load times and optimizing code. If you have any tips or resources on this topic, I'd greatly appreciate it!
 - ✨ Fun fact - I'm an animal lover and share my home with three rescued little buddies - two dogs and a cat 💖
-
-
 
 ##
 
