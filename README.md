@@ -49,7 +49,7 @@
 </p>
 
 <p align='center'>
-  <em>Thank you for visiting my GitHub profile! I hope this information has helped you get to know me better and understand my experience and skills. If you have any questions or are interested in collaborating on a project, please feel free to contact me.
+  <em>Thank you for visiting my GitHub profile! I hope this information has helped you get to know me better. If you have any questions or are interested in collaborating on a project, please feel free to contact me.
 
 </em>
 </p>
